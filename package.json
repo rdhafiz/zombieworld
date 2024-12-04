@@ -1,0 +1,12 @@
+{
+  "name": "zombieworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass --watch scss/app.scss css/style.css --style=compressed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
